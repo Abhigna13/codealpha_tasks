@@ -1,0 +1,9 @@
+streamlit
+torch
+torchaudio
+transformers
+huggingface_hub
+safetensors
+soundfile
+numpy
+scipy

@@ -1,0 +1,56 @@
+# Python cache files
+
+*.pyc
+**pycache**/
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+
+# AI Model Files
+
+*.pt
+*.bin
+*.safetensors
+
+# AI Model Directory
+
+ai_model/
+
+# Generated Music Files
+
+generated_music/*.wav
+generated_music/*.mp3
+
+# Temporary and Test Audio Files
+
+*.tmp
+*.temp
+
+# Logs
+
+logs/
+*.log
+
+# Environment Files
+
+.env
+.env.*
+
+# Jupyter Notebook Files
+
+.ipynb_checkpoints/
+
+# IDE / Editor Settings
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Generated Files
+
+.DS_Store
+Thumbs.db
